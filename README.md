@@ -6,7 +6,7 @@
  
  ✔ Atualmente trabalho com estudos para novas contratações através de faturamentos, e redução de sinistralidade, juntamente com foco em otimizar processos e gerações de insights através da manipulação e análise de dados em Google BigQuery e SQL Server.
  
- ✔ Fundador do projeto [xdata.py](https://www.instagram.com/xdata.py) onde auxilio pequenas e médias empresas a melhorar processos com automações e inteligencia artificial.
+ ✔ Fundador do projeto [xdata.inc](https://www.instagram.com/xdata.inc) onde auxilio pequenas e médias empresas a melhorar processos com automações e inteligencia artificial.
 
 
 ## 🖥 Linguages e tecnologias 
