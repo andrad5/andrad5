@@ -22,8 +22,69 @@
 
 
 
-## 🗃 Projetos
-**`Em andameno...`**
+# 🗃 Projetos
+---
+
+## 📍 01 - Guia Prático de Visualização de Dados e Análise de Vendas
+
+Este repositório contém um **guia prático de visualização de dados em Python** e um **estudo de caso de análise de vendas online** do primeiro trimestre de 2025.
+
+
+
+## 📊 Sobre o Projeto
+
+Este projeto foi desenvolvido com o objetivo de:
+1.  **Explorar e demonstrar** o uso das principais bibliotecas de visualização de dados em Python: `Matplotlib` e `Seaborn`.
+2.  **Aplicar esses conhecimentos** em um cenário de negócio real simulado: a análise de vendas de uma loja de roupas online.
+3.  **Servir como um recurso** para quem está aprendendo visualização de dados e análise exploratória.
+
+
+
+## ✨ O Que Você Encontrará
+
+Dentro do notebook `Estudo_Matplotlib.ipynb` (ou o nome do seu notebook), você verá:
+
+* **Fundamentos da Visualização:** Exemplos práticos de diversos tipos de gráficos (linha, barras, histogramas, pizza, dispersão, mapas de calor), explicando suas aplicações.
+* **Estudo de Caso de Vendas:** Uma análise detalhada do desempenho de vendas (janeiro-março 2025), incluindo:
+    * Tendência de vendas mensais.
+    * Receita por categoria de produto.
+    * Distribuição da satisfação do cliente.
+    * Matriz de correlação entre métricas de marketing.
+* **Insights Acionáveis:** Conclusões e sugestões baseadas na análise visual dos dados.
+
+
+
+## 🛠️ Tecnologias Utilizadas
+
+* Python
+* Pandas (para manipulação de dados)
+* Matplotlib (para visualização)
+* Seaborn (para visualização avançada)
+* Jupyter Notebook
+
+
+
+## 🚀 Como Visualizar o Projeto
+
+Para ver o projeto em ação, você pode:
+
+1 - Publicação do [projeto](https://www.linkedin.com/posts/aandrad5_guia-pr%C3%A1tico-de-data-viz-com-python-activity-7331474137346977792-f-jO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFlhnaEBObUM8vnGYuW4MRpJovvK29aLlzM)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- **`Em andameno...`**
 <!--
 **andrad5/andrad5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
