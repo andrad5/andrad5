@@ -2,7 +2,7 @@
 **`Analista de dados`**
  
  
- ✔ A mais de 5 anos trabalhando com modelagem de dados, automações e melhoria de processos, e a quase 10 anos no ramo da saúde.
+ ✔ A mais de 5 anos trabalhando com modelagem de dados, automações e melhorias de processos, e a quase 10 anos no ramo da saúde.
  
  ✔ Atualmente trabalho com estudos para novas contratações através de faturamentos, e redução de sinistralidade, juntamente com foco em otimizar processos e gerações de insights através da manipulação e análise de dados em Google BigQuery e SQL Server.
  
