@@ -24,7 +24,8 @@
 
 # 🗃 Projetos recentes
 ---
-
+## 📍[Compilador de Arquivos](https://github.com/andrad5/Compilador-de-Arquivos-TXT-e-Upload-para-BigQuery/tree/main)
+## 📍[Machine Learning para Detecção de Fraude](https://github.com/andrad5/Machine-Learning-para-auditoria-de-contas-m-dicas-em-pacotes-de-servi-os./tree/main)
 ## 📍[Guia Prático de Visualização de Dados e Análise de Vendas](https://github.com/andrad5/EstudoPlotVendas220525/tree/main)
 
 
